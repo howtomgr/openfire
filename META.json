@@ -1,0 +1,65 @@
+{
+  "category": "xmpp-servers",
+  "created_date": "2025-09-15T22:48:58.538654",
+  "default_ports": [
+    80,
+    443,
+    2048,
+    5222
+  ],
+  "dependencies": [
+    "java-11-openjdk"
+  ],
+  "description": "Openfire is a free and open-source XMPP Server. Cross-platform real-time collaboration server",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/xmpp-servers/openfire",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/xmpp-servers/openfire",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.538679",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "openfire",
+  "repository_url": "https://github.com/howtomgr/openfire",
+  "spec_version": "2.0",
+  "subcategory": "xmpp-servers",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "xmpp-servers",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "Openfire Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/xmpp-servers/openfire"
+}
